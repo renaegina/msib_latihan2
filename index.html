@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="Image/icon.ico">
+    <title>Tugas 2(Rena Egina Br Pandia)</title>
+</head>
+<body>
+    <div class="container">
+        <div class="judul">
+            <h2>Hitung Nilai Rata-rata</h2>
+        </div>
+    <form>
+        <label for="nama">Nama Mahasiswa: <em style="color: red;">*</em></label>
+        <input type="text" id="nama" placeholder="Nama Mahasiswa"/>
+
+        <label for="matkul">Mata Kuliah: <em style="color: red;">*</em></label>
+        <input type="text" id="matkul" placeholder="Mata Kuliah"/>
+        
+        <label for="grade">Grade: <em style="color: red;">*</em></label>
+        <select id="grade" style="width: 65vh">
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+            <option value="E">E</option>
+        </select>
+        <button type="button" id="hitungButton"><b>Hitung</b></button>
+    </form>
+    
+    <div class="inputan">
+        <table>
+            <thead>
+                <tr>
+                    <th>Nama Mahasiswa</th>
+                    <th>Mata Kuliah</th>
+                    <th>Grade</th>
+                    <th>Nilai Rata-rata</th>
+                </tr>
+            </thead>
+            <tbody id="hasil"></tbody>
+        </table>
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
