@@ -1,6 +1,10 @@
 # msib_latihan2
 ## Website form input data
 Website ini merupakan website untuk menghitung nilai rata-rata berdasarkan grade data mahasiswa.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+![Tampilan](C:/Users/ACER/Documents/STUPEN_GITS.ID(FULL STACK WEB DEVELOPER)/PICTURE/Picture1.png)
+
 
 ## Features
 - Nama mahasiwa
