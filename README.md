@@ -4,7 +4,7 @@
 
 Website ini merupakan website untuk menghitung nilai rata-rata berdasarkan grade data mahasiswa.
 
-<p align="center"><img src="Image/Picture1.png" width="200px" alt="Laravel Logo"></a></p>
+<p align="center"><img src="Image/Picture1.png"alt="Laravel Logo"></a></p>
 
 ## Features
 
