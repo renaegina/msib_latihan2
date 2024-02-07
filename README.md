@@ -1,6 +1,6 @@
 # msib_latihan2
 
-## Website form input data
+## Website form input data mahasiswa
 
 Website ini merupakan website untuk menghitung nilai rata-rata berdasarkan grade data mahasiswa.
 
